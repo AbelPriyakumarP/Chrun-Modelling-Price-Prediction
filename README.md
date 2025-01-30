@@ -1,7 +1,5 @@
 # Chrun-Modelling-Price-Prediction
 
-# Churn Modelling Prediction
-
 ## Overview
 This project focuses on predicting customer churn using machine learning. The dataset used is `Churn_Modelling.csv`, which contains customer details and churn status.
 
